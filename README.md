@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/akash-srivastava-798a76220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijender srivastava" height="30" width="40" /></a>
-<a href="https://instagram.com/mohit_srivastava120?igshid=MzRlODBiNWFlZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishabhsrivastava162" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-srivastava-798a76220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash srivastava" height="30" width="40" /></a>
+<a href="https://instagram.com/mohit_srivastava120?igshid=MzRlODBiNWFlZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashsrivastava" height="30" width="40" /></a>
 
 </p>
 
